@@ -5,7 +5,7 @@ public void abc() {
 	System.out.println("abc test");
 }
 public void def(){
-	System.out.println("def")
+	System.out.println("def");
 	}
 	
 }
